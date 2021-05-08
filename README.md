@@ -1,7 +1,7 @@
 # Authors
-Pratheep Kumar Manoharan - (pr971100@dal.ca)
-Japnoor Kaur - (jp238553@dal.ca)
-Bala Sundeep Krishna Dasari - (bsundeepkrishna@dal.ca)
+- Pratheep Kumar Manoharan - (pr971100@dal.ca)
+- Japnoor Kaur - (jp238553@dal.ca)
+- Bala Sundeep Krishna Dasari - (bsundeepkrishna@dal.ca)
 
 # Spring Boot Hello World Example – Thymeleaf
 
